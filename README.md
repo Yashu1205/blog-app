@@ -1,9 +1,6 @@
-# Getting Started with Create React App
 
-This project is build with React which demonstrate maintaining state in functional components.
 
-## Available Scripts
-
+This project is build with React where the user can search post, sort posts, like and dislike the post. 
 In the project directory, you can run:
 
 ### `npm start`
